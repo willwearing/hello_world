@@ -1,2 +1,3 @@
 # hello_world
-learning c
+
+random github repo for learning c
